@@ -1,12 +1,12 @@
 {
   "name": "hapijs-ajv",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple combination of hapi and ajv.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "liuyanghejerry",
   "license": "ISC",
   "dependencies": {
     "ajv": "^4.7.2",
