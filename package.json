@@ -1,0 +1,18 @@
+{
+  "name": "hapijs-ajv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^4.7.2",
+    "lodash": "^4.16.1"
+  },
+  "devDependencies": {
+    "hapi": "^15.0.3"
+  }
+}
