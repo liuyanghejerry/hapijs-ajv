@@ -1,6 +1,6 @@
 {
   "name": "hapijs-ajv",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A very simple combination of hapi and ajv.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   },
   "devDependencies": {
     "hapi": "^15.0.3"
-  }
+  },
+  "engines" : { "node" : ">=4 <8" }
 }
