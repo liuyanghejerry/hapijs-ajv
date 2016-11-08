@@ -2,6 +2,8 @@
 
 A very simple combination of hapi and ajv.
 
+[![Build Status](https://travis-ci.org/liuyanghejerry/hapijs-ajv.svg?branch=master)](https://travis-ci.org/liuyanghejerry/hapijs-ajv)
+
 # Usage
 
 This plugin helps you check two inputs: query string and simple payload.
